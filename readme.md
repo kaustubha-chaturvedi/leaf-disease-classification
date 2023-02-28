@@ -1,0 +1,1 @@
+## this is project i made for classicification of diseases in soybean plant this covers 5 diseases and has accuracy of 95% with F1 score of 95%.
